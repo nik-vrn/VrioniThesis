@@ -1,6 +1,6 @@
 # VrioniThesis -Update of Structures for Finding Optimal Routes in Dynamic Road Networks
 
-A Dynamic Contraction Hierarchy Weight Decrease algorithm is designed to efficiently handle edge weight reduction in dynamic road networks. This algorithm includes two main components: preprocessing and dynamic handling of queries and updates in microseconds.
+A Dynamic Contraction Hierarchy Weight Decrease algorithm is designed to efficiently handle edge weight reduction in dynamic road networks. Through 1100 iterations, including 100 iterations with weight reduction updates evenly distributed among 1000 routing queries, the algorithm dynamically adjusts edge weights and answer the queries.
 
 Requirements
 
