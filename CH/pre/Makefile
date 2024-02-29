@@ -1,7 +1,7 @@
-INCLUDEDIR='/home/vrioni/Projects/pgl/include/'
+INCLUDEDIR='/home/Projects/pgl/include/'
 BOOSTINCLUDEDIR='/usr/include/boost/'
 BOOSTLIBDIR='/usr/local/lib'
-ROUTINGKITLIBDIR='/home/vrioni/RoutingKit/lib'
+ROUTINGKITLIBDIR='/home/RoutingKit/lib'
 
 all: compile
 
