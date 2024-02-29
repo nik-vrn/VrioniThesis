@@ -6,8 +6,11 @@ Requirements
 Before running the code, ensure you have the following dependencies installed:
 
 PGL: Library for graph algorithms and data structures (https://www.ceid.upatras.gr/webpages/faculty/zaro/software/pgl/index.html).
+
 Routingkit: (https://github.com/RoutingKit/RoutingKit).
+
 Boost library: (https://www.boost.org/)
+
 DIMACS9: Using graphs in DIMACS9 format (http://www.diag.uniroma1.it/challenge9/download.shtml).
 
 The Makefile contains the correct path to the pgl/include folder
